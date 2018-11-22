@@ -1,6 +1,7 @@
-
-
-Welcome to the jungle
-
--Group3
-Members:Jud PASCUAL,Jerald Paulo Coronel, John Harold Eclarin
+GROUP 3
+12 ICT Programming
+#immersion_program
+Members:
+Jud PASCUAL
+Jerald Paulo Coronel
+John Harold Eclarin
