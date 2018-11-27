@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background: url(time.jpg);
+	background: url(2277.jpg);
 	background-size: cover;
 	background-position: center;
 	font-family: san-serif;
@@ -10,13 +10,13 @@ body{
 .loginbox{
 	width: 320px;
 	background: 420px;
-	color: #fff;
+	color: #000000;
 	top: 50%;
 	left: 50%;
 	position: absolute;
 	transform: translate(-50%, -50%);
 	box-sizing: border-box;
-	padding: 70px 20px;
+	padding: 70px 30px;
 	
 }
 
@@ -33,7 +33,7 @@ h1{
 	margin: 0;
 	padding: 0 0 20px;
 	text-align: center;
-	font-size: 42px;
+	font-size: 22px;
 }
 
 .loginbox p{
@@ -47,13 +47,14 @@ h1{
 	margin-bottom: 20px;
 }
 
-.loginbox input[type="text"], input[type="password"]{
-	outline: none;
+.loginbox input[type="text"], input[type="password"]
+{
 	border: none;
-	border-bottom: 2px solid #fff;
-	background: transparent;
+	border-bottom: 1px solid #000000;
+	background: solid;
+	outline: none;
 	height: 50px;
-	color: #f1f1f1;
+	color: #696969;
 	font-size: 16px;
 	
 }
